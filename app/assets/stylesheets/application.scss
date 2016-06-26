@@ -1,4 +1,7 @@
 
 // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
 @import "bootstrap-sprockets";
+$navbar-default-bg: #e0d7c6;
+$jumbotron-bg: #f0e8e9;
 @import "bootstrap";
+
